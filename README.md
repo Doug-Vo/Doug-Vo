@@ -10,7 +10,6 @@
 <a href="https://nguyenthienducvo.azurewebsites.net/">
   <img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="40" />
 </a>
-&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/nguyen-thien-duc-vo/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
 </a>
