@@ -44,4 +44,4 @@
 ---
 ### **Check out my work below**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=100&pause=200&color=428BF7&center=true&vCenter=true&multiline=true&width=1000&height=500&lines=++++++%7C++++++++++++++++++++++++++++++++%7C;++++++%7C++++++++++++++++++++++++++++++++%7C;+++++V+++++++++++++++++++++++++++++++V)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=100&pause=200&color=428BF7&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=++++++%7C++++++++++++++++++++++++++++++++%7C;++++++%7C++++++++++++++++++++++++++++++++%7C;+++++V+++++++++++++++++++++++++++++++V)](https://git.io/typing-svg)
