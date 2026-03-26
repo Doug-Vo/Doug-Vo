@@ -20,25 +20,11 @@
 ### I build Machine Learning / AI systems — from RAG pipelines to cloud-deployed ML apps — with a focus on clean architecture and real-world impact.
 
 
-
-
-
-
 ## 🎓 Education
 
 - **MSc in Computer Science** — University of Oulu, **Finland** *(Current)*
 - **BSc in Computer Science** — Grand Canyon University, **USA** 
   
-## 🛠 Skills & Tools
-
-**AI / ML**
-`Python` `Scikit-Learn` `XGBoost` `NLP` `RAG Pipelines`
-
-**Data & Cloud**
-`SQL` `MongoDB` `Azure` `Google Cloud` `Docker` `Kubernetes`
-
-**Web & DevOps**
-`Flask` `FastAPI` `React` `GitHub Actions` `Agile/Scrum`
 
 
 ## 🚀 End-to-End Projects
