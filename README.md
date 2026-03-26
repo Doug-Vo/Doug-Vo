@@ -3,9 +3,9 @@
 
 # Hi, I'm Nguyen Thien Duc (Doug) Vo 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=AI+/+ML+Engineer;MSc+CS+%40+Uni+of+Oulu;Building+Intelligent+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4285F4&center=true&vCenter=true&width=500&lines=AI+/+ML+Engineer;MSc+CS+%40+Uni+of+Oulu" alt="Typing SVG" />
 
-<br />
+<sub>by <a href="https://github.com/DenverCoder1/readme-typing-svg">DenverCoder1</a></sub>
 
 <a href="https://nguyenthienducvo.azurewebsites.net/">
   <img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" height="40" />
@@ -14,8 +14,6 @@
 <a href="https://www.linkedin.com/in/nguyen-thien-duc-vo/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
 </a>
-
-<br /><br />
 
 </div>
 
@@ -43,15 +41,7 @@
 **Web & DevOps**
 `Flask` `FastAPI` `React` `GitHub Actions` `Agile/Scrum`
 
+---
+### **Check out my work below**
 
-## Check out my work below
-
-<div align="center">
-
-<h3>Check out my work below</h3>
-<a href="#pinned-items-reorder-link">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a3559-928b-4ab8-8119-4c9a48858501.gif" width="50" alt="Bouncing Arrow" />
-</a>
-
-<br /><br />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=100&pause=200&color=428BF7&center=true&vCenter=true&multiline=true&width=1000&height=500&lines=++++++%7C++++++++++++++++++++++++++++++++%7C;++++++%7C++++++++++++++++++++++++++++++++%7C;+++++V+++++++++++++++++++++++++++++++V)](https://git.io/typing-svg)
