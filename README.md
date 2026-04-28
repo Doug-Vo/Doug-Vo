@@ -33,9 +33,9 @@
 ## 🚀 End-to-End Projects
 
 | No | Project name | Tech Stack | Domain | Source & Demo |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 01 | 🤖**RAG AI Workbench** | OpenAI, Vector DB, RAG Chain | Generative AI | [![Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/Doug-Vo/RAG-Knowledge-Engine) [![Demo](https://img.shields.io/badge/Live-blue?logo=microsoftazure)](https://rag-application.azurewebsites.net/) |
-| 02 | 🌦️**Weather Predictor** | XGBoost, Scikit-Learn, LGBM | ML, Prediction| [![Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/Doug-Vo/Weather-Predictor) [![Demo](https://img.shields.io/badge/Live-blue?logo=microsoftazure)](https://weather-predictor.azurewebsites.net/) |
+| :--- | :--- | :--- | :--- | :--- |
+| 01 | 🤖 **RAG AI Workbench** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) | ![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=flat&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-1C3C3C?style=flat&logoColor=white) | [![Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/Doug-Vo/RAG-Knowledge-Engine) [![Demo](https://img.shields.io/badge/Live-blue?logo=microsoftazure)](https://rag-application.azurewebsites.net/) |
+| 02 | 🌦️ **Weather Predictor** | ![XGBoost](https://img.shields.io/badge/XGBoost-E57332?style=flat&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-1D9E75?style=flat&logoColor=white) ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![ML](https://img.shields.io/badge/ML-E57332?style=flat&logoColor=white) ![Prediction](https://img.shields.io/badge/Prediction-1D9E75?style=flat&logoColor=white) | [![Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/Doug-Vo/Weather-Predictor) [![Demo](https://img.shields.io/badge/Live-blue?logo=microsoftazure)](https://weather-predictor.azurewebsites.net/) |
 
 <div align="center">
 
