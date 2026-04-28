@@ -32,10 +32,10 @@
 
 ## 🚀 End-to-End Projects
 
-| Project | Key Technologies | Source & Live Demo |
-| :--- | :--- | :--- |
-| **🌦️ Weather Predictor** <br> *Real-time ML forecasting for Finland* | `Machine learning` `Flask` `Docker` `Azure` | [![Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/Doug-Vo/RAG-Knowledge-Engine) [![Demo](https://img.shields.io/badge/Live-blue?logo=microsoftazure)](https://rag-application.azurewebsites.net/) |
-| **🤖 RAG AI Workbench** <br> *Verified, source-cited AI engine* | `Python` `RAG` `LLM` `NLP` | [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Doug-Vo/RAG-Knowledge-Engine) <br> [![Demo](https://img.shields.io/badge/Live_Demo-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://rag-application.azurewebsites.net/) |
+| No | Project name | Tech Stack | Domain | Source & Demo |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 01 | 🤖**RAG AI Workbench** | OpenAI, Vector DB, RAG Chain | Generative AI | [![Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/Doug-Vo/RAG-Knowledge-Engine) [![Demo](https://img.shields.io/badge/Live-blue?logo=microsoftazure)](https://rag-application.azurewebsites.net/) |
+| 02 | 🌦️**Weather Predictor** | XGBoost, Scikit-Learn, LGBM | ML, Prediction| [![Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/Doug-Vo/Weather-Predictor) [![Demo](https://img.shields.io/badge/Live-blue?logo=microsoftazure)](https://weather-predictor.azurewebsites.net/) |
 
 <div align="center">
 
