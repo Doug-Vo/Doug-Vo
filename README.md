@@ -34,7 +34,7 @@
 
 | Project | Key Technologies | Source & Live Demo |
 | :--- | :--- | :--- |
-| **🌦️ Weather Predictor** <br> *Real-time ML forecasting for Finland* | `Machine learning` `Flask` `Docker` `Azure` | [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Doug-Vo/Weather-Predictor) <br> [![Demo](https://img.shields.io/badge/Live_Demo-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://weather-predictor.azurewebsites.net/) |
+| **🌦️ Weather Predictor** <br> *Real-time ML forecasting for Finland* | `Machine learning` `Flask` `Docker` `Azure` | [![Repo](https://img.shields.io/badge/Repo-black?logo=github)](https://github.com/Doug-Vo/RAG-Knowledge-Engine) [![Demo](https://img.shields.io/badge/Live-blue?logo=microsoftazure)](https://rag-application.azurewebsites.net/) |
 | **🤖 RAG AI Workbench** <br> *Verified, source-cited AI engine* | `Python` `RAG` `LLM` `NLP` | [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Doug-Vo/RAG-Knowledge-Engine) <br> [![Demo](https://img.shields.io/badge/Live_Demo-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://rag-application.azurewebsites.net/) |
 
 <div align="center">
